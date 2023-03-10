@@ -60,7 +60,7 @@ ana:  [ simpleMChitrms ]
 physics.analyzers.simpleMChitrms.TrackModuleLabel:        "pandoraTrack"
 physics.analyzers.simpleMChitrms.CalorimetryModuleLabel:  "pandoracalo"
 physics.analyzers.simpleMChitrms.HitsModuleLabel:  "hitpdune"
-physics.analyzers.simpleMChitrms.WireProducerLabel:  "caldata:dataprep"
+physics.analyzers.simpleMChitrms.WireProducerLabel:  "wclsdatasp:gauss"
 physics.analyzers.simpleMChitrms.RawProducerLabel:  "tpcrawdecoder:daq"
 #physics.analyzers.simpleMChitrms.WireProducerLabel:  "caldata:dataprep"
 #physics.analyzers.simpleMChitrms.RawProducerLabel:  "caldata:dataprep"

@@ -60,7 +60,7 @@ ana:  [ hitrms ]
 physics.analyzers.hitrms.TrackModuleLabel:        "pandoraTrack"
 physics.analyzers.hitrms.CalorimetryModuleLabel:  "pandoracalo"
 physics.analyzers.hitrms.HitsModuleLabel:  "hitpdune"
-physics.analyzers.hitrms.WireProducerLabel:  "caldata:dataprep"
+physics.analyzers.hitrms.WireProducerLabel:  "wclsdatanfsp:gauss"
 physics.analyzers.hitrms.RawProducerLabel:  "tpcrawdecoder:daq"
 #physics.analyzers.hitrms.WireProducerLabel:  "caldata:dataprep"
 #physics.analyzers.hitrms.RawProducerLabel:  "caldata:dataprep"
